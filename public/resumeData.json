@@ -27,11 +27,7 @@
         "url": "https://www.linkedin.com/in/jmitsou1/",
         "className": "fa fa-linkedin"
       },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
+      
       {
         "name": "github",
         "url": "https://github.com/jmitsou",
@@ -43,16 +39,22 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "CareerDevs Computer Science Institute",
+        "degree": "Certificate in Computer Science, Software Development",
+        "graduated": "Present",
+        "description": "Majoring in Back-End Development and minor in Front-End. Some languages learn: Java, JavaScript, React"
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "FullSail University",
+        "degree": "BA Mobile Development",
+        "graduated": "Aug 2013",
+        "description": "Studied all aspects of Mobile Design. UI to UX and Andriod to Swift(IOS)"
+      },
+      {
+        "school": "Providence Skill Center",
+        "degree": "GED",
+        "graduated": "January 2008",
+        "description": "Studied and obtained a General Equivalency Degree"
       }
     ],
     "work": [
@@ -72,7 +74,7 @@
     "skills": [
       {
         "name": "Git",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "Illustrator",
@@ -84,11 +86,11 @@
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "50%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "50%"
       },
       {
         "name": "VueJs",
